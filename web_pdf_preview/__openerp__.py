@@ -20,31 +20,13 @@
 
 {
     "name": "Web PDF Report Preview & Print",
-    'version': '1.0',
+    'version': '10.0',
     'category': 'Web',
     'description': """Web PDF Report Preview & Print
-
-Preview & Print PDF report in your browser.
-
-* For IE, Adobe Reader is required.
-* For Chrome , nothing is requried.
-* For Firefox, Adobe Reader is required.
-
-Test passed on Windows.
-
-If your brower prevented pop-up window, you should allow it.
-
-功能：PDF 报表预览
-
-如果您觉得好用，请进入下面的网址，付费支持作者 ~
-
-http://me.alipay.com/wangbuke
-
-谢谢！
-
+    
     """,
-    'author': 'wangbuke@gmail.com',
-    'website': 'http://buke.github.io',
+    'author': 'rapidgrps@gmail.com',
+    'website': 'http://eagle-erp',
     'license': 'AGPL-3',
     'depends': ['web'],
     'data': [],
